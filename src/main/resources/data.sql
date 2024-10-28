@@ -1,0 +1,2 @@
+INSERT INTO player (email, password, name, surname, date_of_birth, address, daily_time_limit_in_seconds) VALUES
+('raje.sankar@gmail.com', '$2a$10$c3GE1w8Qt5r7rVbUmmI4A.lIDGZc6tAdKPdk838vcIGv/YlCWly8y', 'Raje', 'Sankar', '1993-02-02', 'Solna',3600);
